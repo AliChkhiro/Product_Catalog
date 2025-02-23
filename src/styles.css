@@ -1,1 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
+
+/*
+1- solution pour ajouter bootstrap, et la 2 c'est dans le fichier => angular.json
+@import "bootstrap/dist/css/bootstrap.min.css";*/
+@import "bootstrap-icons/font/bootstrap-icons.css";
