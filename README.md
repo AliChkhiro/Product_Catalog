@@ -1,4 +1,5 @@
-# Catalog
+# Products Catalog 
+
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.4.
 
@@ -10,6 +11,11 @@ To start a local development server, run:
 ng serve
 ```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
-
-
+1- Dashboard for Admin: 
+  - Username : admin
+  - Password : 1234
+2- Dashboard for User :
+  - Username : user1
+  - Password : 1234
+      
+![image alt](https://github.com/AliChkhiro/Product_Catalog/blob/5f12eb2715ff412ba3dca2339e5091a504abb255/1-Authentication.jpg)
