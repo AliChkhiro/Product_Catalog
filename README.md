@@ -14,8 +14,10 @@ ng serve
 1- Dashboard for Admin: 
   - Username : admin
   - Password : 1234
+    
 2- Dashboard for User :
   - Username : user1
   - Password : 1234
       
 ![image alt](https://github.com/AliChkhiro/Product_Catalog/blob/5f12eb2715ff412ba3dca2339e5091a504abb255/1-Authentication.jpg)
+![image alt](https://github.com/AliChkhiro/Product_Catalog/blob/f9cdc94c9be2d340dd6e7a6a199d55c49da446a0/dashboard%20for%20Admin.jpg)
